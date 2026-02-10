@@ -1,0 +1,1210 @@
+head,relation,tail,source_pmid
+hypertension,ASSOCIATED_WITH,hypertensive,11409644
+essential hypertension,ASSOCIATED_WITH,gene polymorphism,11409653
+genetic variation2 bradykinin,INCREASES_RISK_OF,hypertension,11409654
+genetic variation2 bradykinin,ASSOCIATED_WITH,hypertension,11409654
+-,TREATED_BY,hypertension,11409655
+hypertensive,ASSOCIATED_WITH,h,11409657
+cyclpor,ASSOCIATED_WITH,a,11409664
+overweight,ASSOCIATED_WITH,obesity,11410818
+pulmonary,CAUSES,alve,11411115
+mono,ASSOCIATED_WITH,pyrrolizidine,11411116
+hypertension,CAUSES,nitric oxide,11411117
+hyperphy,CAUSES,mutation,11411129
+hypertension,ASSOCIATED_WITH,ph,11411130
+impaired,ASSOCIATED_WITH,physical activity,11411131
+h,ASSOCIATED_WITH,airways resistance,11411133
+hypoxemia,ASSOCIATED_WITH,shunting,11411137
+ischemia,CAUSES,hypertrophy,11411317
+antihypertens,ASSOCIATED_WITH,hypertensives,11411446
+hypertens,ASSOCIATED_WITH,cardiovascular events,11411728
+vd,ASSOCIATED_WITH,hyper,11411729
+mass,ASSOCIATED_WITH,left ventricular,11411731
+weight,ASSOCIATED_WITH,obese,11411732
+weight,TREATED_BY,obese,11411732
+hypertensive,TREATED_BY,placebo,11411734
+activityriuresis,ASSOCIATED_WITH,baroreflexes,11411750
+hypertension,ASSOCIATED_WITH,hypertens,11411751
+hypertension,CAUSES,hypertens,11411751
+at,ASSOCIATED_WITH,dia,11411756
+at,TREATED_BY,dia,11411756
+disturbed,ASSOCIATED_WITH,basal glycaemia,11412575
+hypertension,TREATED_BY,angiotensin converting enzyme inhibitor,11412679
+metamohopsia,CAUSES,situation,11412707
+lesions,ASSOCIATED_WITH,abnormal movement,11412722
+stroke,ASSOCIATED_WITH,thromboembolic events,11412723
+insulin,ASSOCIATED_WITH,alterations,11412781
+hemage,ASSOCIATED_WITH,plasminogen,11413077
+activity,CAUSES,est,11413078
+nifedip,TREATED_BY,co,11413085
+factors,ASSOCIATED_WITH,hypercaloric food,11413798
+hypervolemic circulation,ASSOCIATED_WITH,insulin,11413799
+hypertension,ASSOCIATED_WITH,low,11413894
+aging,ASSOCIATED_WITH,relaxation,11413933
+aging,CAUSES,relaxation,11413933
+camp,ASSOCIATED_WITH,insulin,11414504
+camp,CAUSES,insulin,11414504
+hypertensive,ASSOCIATED_WITH,normotensive,11416267
+glucose tolerance,INCREASES_RISK_OF,as,11416272
+glucose tolerance,ASSOCIATED_WITH,as,11416272
+ang,ASSOCIATED_WITH,- converting enzyme inhibitors,11416283
+over,TREATED_BY,hypertension,11416298
+atherclerosis,ASSOCIATED_WITH,atic,11416313
+diseasesteroidal anti,ASSOCIATED_WITH,hypertension,11416394
+formationion,ASSOCIATED_WITH,peal myopotential,11416404
+hypertension,INCREASES_RISK_OF,hyper,11416414
+isosorbide mononitrate,TREATED_BY,hyper,11416419
+hypertension,ASSOCIATED_WITH,morbidity,11416433
+hypertension,ASSOCIATED_WITH,pulse wave,11416462
+stroke,ASSOCIATED_WITH,hypertension,11416493
+hypertension,ASSOCIATED_WITH,hypertensionodmics,11416534
+hypertension,CAUSES,antihypertens,11416536
+hypertension,TREATED_BY,antihypertens,11416536
+hypertension,INCREASES_RISK_OF,hypertensionbidity,11416551
+hypotension,ASSOCIATED_WITH,alterations,11416580
+hypertension,TREATED_BY,overweight,11416590
+tachycardia,ASSOCIATED_WITH,hyper,11416620
+cardiovascular end points,ASSOCIATED_WITH,hypertension,11416637
+diuretics,INCREASES_RISK_OF,hypertension,11416660
+diuretics,ASSOCIATED_WITH,hypertension,11416660
+microalbuminuria,ASSOCIATED_WITH,pressure,11416667
+microalbuminuria,CAUSES,pressure,11416667
+anti,TREATED_BY,antihypertens,11416681
+beta block,ASSOCIATED_WITH,timl,11416704
+clonazepam,CAUSES,arterial hypertension,11417185
+clonazepam,TREATED_BY,arterial hypertension,11417185
+histiytosis,ASSOCIATED_WITH,hyper,11417606
+hypertension,ASSOCIATED_WITH,budesonide,11417618
+hpaal,INCREASES_RISK_OF,hp,11418460
+hpaal,ASSOCIATED_WITH,hp,11418460
+lesions,ASSOCIATED_WITH,glycol lavage,11419832
+thrombotic occlusion,ASSOCIATED_WITH,adverse,11419889
+ventricular dysfunction,ASSOCIATED_WITH,dobutam,11419894
+amphetamine,CAUSES,fatigue,11421166
+dietary chloride,CAUSES,bicarbonate,11421330
+hypokalemia,TREATED_BY,full,11421533
+degradation,ASSOCIATED_WITH,death,11421581
+premature,ASSOCIATED_WITH,atherclerosis,11422114
+dermatitis,ASSOCIATED_WITH,psoria,11422182
+asymptomatic,ASSOCIATED_WITH,anemia,11422412
+genetic polymorphismin,ASSOCIATED_WITH,hypertension,11422735
+(,TREATED_BY,ace,11422755
+hypertension,ASSOCIATED_WITH,cold ischemia time,11422817
+disease,ASSOCIATED_WITH,hyper,11422818
+hox,TREATED_BY,ventilatory depression,11422897
+loss,ASSOCIATED_WITH,taste,11423043
+weakness,CAUSES,di,11423046
+bd,CAUSES,hyper,11423292
+dysproteinemia,ASSOCIATED_WITH,ch1,11423577
+complication,ASSOCIATED_WITH,associated,11424028
+fibrinolytic agents,TREATED_BY,netive drugs,11424030
+symptoms,CAUSES,clinical signs,11424048
+hepar,TREATED_BY,th,11424051
+hyperdynamic circulation,TREATED_BY,beta,11424326
+weight loss,ASSOCIATED_WITH,obesity,11424516
+weight loss,TREATED_BY,obesity,11424516
+diltiazem,TREATED_BY,hypertension,11424664
+mor,ASSOCIATED_WITH,prem,11424770
+mor,CAUSES,prem,11424770
+cardiovascular,ASSOCIATED_WITH,stiffness,11424901
+est,ASSOCIATED_WITH,estrogen,11424956
+ascite,ASSOCIATED_WITH,restriction,11425056
+hypoxaemia,ASSOCIATED_WITH,-,11425370
+low,ASSOCIATED_WITH,complex,11425773
+vascular dysfunction,ASSOCIATED_WITH,hypertension,11425780
+involvement,ASSOCIATED_WITH,weaknessogenal studies,11425933
+neoplasms,ASSOCIATED_WITH,invading,11425988
+matter,ASSOCIATED_WITH,lesions,11425997
+dihydroergotam,ASSOCIATED_WITH,didroergotam,11426092
+milrinone,ASSOCIATED_WITH,dobutamine,11426360
+pressure,ASSOCIATED_WITH,enzyme inhibitorsis,11427096
+hypertension,CAUSES,high,11427097
+age,ASSOCIATED_WITH,loss of vision,11427225
+claudication,INCREASES_RISK_OF,cardiovascular events,11427227
+claudication,ASSOCIATED_WITH,cardiovascular events,11427227
+nitric oxide,TREATED_BY,fear,11427335
+volume expanded,ASSOCIATED_WITH,hypertrophy,11427641
+lisinopril,ASSOCIATED_WITH,nifedipine,11427642
+lisinopril,TREATED_BY,nifedipine,11427642
+activity,ASSOCIATED_WITH,exercise,11427764
+saponins,TREATED_BY,hypertens,11427823
+stroke,ASSOCIATED_WITH,headache,11428506
+stroke,CAUSES,headache,11428506
+hypertensive ventriclery flow,ASSOCIATED_WITH,hypertensionod,11428534
+malabsorption,ASSOCIATED_WITH,hypertension,11428587
+modulation,ASSOCIATED_WITH,exercise,11429615
+glucose tolerance,ASSOCIATED_WITH,cognitive impairment,11429715
+seizures,CAUSES,headache,11430270
+depression,ASSOCIATED_WITH,kcl,11430863
+heroin,INCREASES_RISK_OF,opiates,11431181
+heroin,ASSOCIATED_WITH,opiates,11431181
+macrophage infiltration,ASSOCIATED_WITH,glomerulosclerosisin,11431195
+dexamethasone,ASSOCIATED_WITH,dex,11431441
+linoleic acid,TREATED_BY,mono,11431639
+met,ASSOCIATED_WITH,nemia,11431640
+met,CAUSES,nemia,11431640
+infected,ASSOCIATED_WITH,vegetations,11431660
+tachycardia,ASSOCIATED_WITH,bundle,11431662
+hypother,ASSOCIATED_WITH,hypothermia,11431733
+weight,CAUSES,microalbuminuria,11431901
+embolism,CAUSES,occlusion,11431946
+depression,ASSOCIATED_WITH,arterial hypertension,11432037
+depression,TREATED_BY,arterial hypertension,11432037
+cognitive impairment,CAUSES,deep white matter changes,11432121
+ventricular,CAUSES,hypertrophy,11433216
+normocapnia,TREATED_BY,hypercapnia,11433601
+flu - like symptoms,ASSOCIATED_WITH,fever,11433807
+mit,ASSOCIATED_WITH,annular calcifications,11433823
+plaque,ASSOCIATED_WITH,calci,11433823
+homocysteinemia,INCREASES_RISK_OF,homocyemia,11433886
+heparin,TREATED_BY,thrombocy,11434091
+atherosclerosischo,ASSOCIATED_WITH,atherosclerosis,11434194
+psychotical,ASSOCIATED_WITH,depression,11434262
+psychotical,TREATED_BY,depression,11434262
+l - arginine,TREATED_BY,l,11434356
+polymorphism,INCREASES_RISK_OF,stroke,11434425
+polymorphism,ASSOCIATED_WITH,stroke,11434425
+barnidi,ASSOCIATED_WITH,bamidipine,11434453
+medications,INCREASES_RISK_OF,bronchodilator medications,11434792
+plaques,ASSOCIATED_WITH,atclerosis,11434800
+stroke,ASSOCIATED_WITH,abcixima,11434830
+stroke,TREATED_BY,abcixima,11434830
+timolol,TREATED_BY,biacological agents,11434939
+hypox,TREATED_BY,upothelial,11435211
+plaques,ASSOCIATED_WITH,stroke,11435340
+atherclerosis,INCREASES_RISK_OF,hypertension,11435347
+pressure,ASSOCIATED_WITH,blood,11435500
+disturbances,ASSOCIATED_WITH,tolerance,11435530
+disturbances,CAUSES,tolerance,11435530
+infarcts,CAUSES,hemip,11435651
+excess,ASSOCIATED_WITH,mor,11435673
+poststroke depression,ASSOCIATED_WITH,depressive symptoms,11435674
+stroke,TREATED_BY,seizures,11435678
+stress,INCREASES_RISK_OF,renal dysfunction,11435744
+stress,ASSOCIATED_WITH,renal dysfunction,11435744
+medication,ASSOCIATED_WITH,hypertension,11435745
+in,ASSOCIATED_WITH,le,11435798
+in,TREATED_BY,le,11435798
+protein aggregation,ASSOCIATED_WITH,ischemia,11435799
+protein aggregation,CAUSES,ischemia,11435799
+hyper,CAUSES,hyperasia,11436038
+aspt,ASSOCIATED_WITH,ischemic attacks,11436067
+aspt,CAUSES,ischemic attacks,11436067
+hydroxysteroid,ASSOCIATED_WITH,glu,11436185
+ace inhibitor,TREATED_BY,mass,11436209
+leukocytosis,INCREASES_RISK_OF,blood,11436679
+leukocytosis,ASSOCIATED_WITH,blood,11436679
+delay,ASSOCIATED_WITH,scavengers,11437031
+stroke,INCREASES_RISK_OF,vascular events,11437157
+hyper,INCREASES_RISK_OF,co,11437691
+hyper,CAUSES,co,11437691
+microanatomical changes,ASSOCIATED_WITH,hypertensive,11438117
+complicationsweight,ASSOCIATED_WITH,eclampsia,11438131
+hypertension,ASSOCIATED_WITH,autonomic activity,11438361
+morbidity,ASSOCIATED_WITH,multimorbidity,11438408
+morbidity,CAUSES,multimorbidity,11438408
+hypotensive,TREATED_BY,les,11438492
+obe,ASSOCIATED_WITH,obese,11438497
+polymorphism,ASSOCIATED_WITH,allelic,11438501
+obesity,ASSOCIATED_WITH,overweight,11439289
+obesity,CAUSES,overweight,11439289
+co - morbidities,ASSOCIATED_WITH,hyper,11439312
+overweight,ASSOCIATED_WITH,obese,11439316
+symptoms,ASSOCIATED_WITH,epoprostenol,11440333
+symptoms,TREATED_BY,epoprostenol,11440333
+ischemic tolerance,TREATED_BY,oxygen,11440438
+shunting,INCREASES_RISK_OF,hemnting,11440444
+shunting,ASSOCIATED_WITH,hemnting,11440444
+insulin,TREATED_BY,factor - i,11440750
+antihypertensive agent,ASSOCIATED_WITH,pred,11440825
+bosentan,TREATED_BY,macitentan,29233198
+com,TREATED_BY,rigid,29233537
+morities,CAUSES,associated comoidities,29233572
+hormone therapy,ASSOCIATED_WITH,hormoneusa,29234814
+impaired,CAUSES,deformation,29235182
+asgal,ASSOCIATED_WITH,ischemiakin,29235296
+azilsart,TREATED_BY,amlodi,29235365
+delirium,ASSOCIATED_WITH,del,29235430
+attack,ASSOCIATED_WITH,adverse,29235436
+attack,TREATED_BY,adverse,29235436
+doac,TREATED_BY,war,29235900
+dyslipidemia,ASSOCIATED_WITH,hyper,29236873
+neurological events,ASSOCIATED_WITH,dysfunction,29237015
+variants,ASSOCIATED_WITH,plate,29237371
+ische,ASSOCIATED_WITH,strokes,29237797
+bevacizumab,TREATED_BY,bevacizuma,29237919
+inflammation,ASSOCIATED_WITH,deposition of collagen fibers,29240273
+hyper,ASSOCIATED_WITH,hypertensive,29240959
+pain,ASSOCIATED_WITH,adverse events,29241287
+β - blockers,ASSOCIATED_WITH,angiotensin - converting - enzymes,29241711
+expressions,ASSOCIATED_WITH,affection,29241822
+occlusion,INCREASES_RISK_OF,olusion,29242067
+occlusion,ASSOCIATED_WITH,olusion,29242067
+general anesthesia,ASSOCIATED_WITH,anesthesia,29242070
+adverse,TREATED_BY,cardiovascular events,29243114
+apatin,TREATED_BY,apatinib,29243413
+involvement,ASSOCIATED_WITH,arterial stiff,29243787
+damage,ASSOCIATED_WITH,hypertension,29243789
+compression,TREATED_BY,exic compression,29243974
+in,ASSOCIATED_WITH,neurological defects,29244081
+cognitive,ASSOCIATED_WITH,antivira,29244265
+hypervitaminosis,CAUSES,xenobiotics,29244912
+hypertension,ASSOCIATED_WITH,doc,29246398
+tirofiban,TREATED_BY,arterial occlusion,29246609
+large,ASSOCIATED_WITH,vessel occlusions,29246906
+chinese medicine,ASSOCIATED_WITH,tongxinluo,29247478
+albuminuria,INCREASES_RISK_OF,microalbu,29247656
+albuminuria,ASSOCIATED_WITH,microalbu,29247656
+pparγ,TREATED_BY,sap,29247773
+nec,TREATED_BY,ischemia,29247776
+severity,CAUSES,deformity,29248153
+k,TREATED_BY,anticoagulants,29248163
+telmisartan,TREATED_BY,amlodipine,29248384
+hypertension,ASSOCIATED_WITH,fibrosis,29248656
+hive effects,TREATED_BY,bacteria,29248696
+alteration,TREATED_BY,atenolol,29248973
+rivaroxaban,ASSOCIATED_WITH,anti,29249166
+tumor,ASSOCIATED_WITH,lesions,29249263
+as,ASSOCIATED_WITH,war,29249444
+exin - 4,ASSOCIATED_WITH,monocrotaline,29249493
+exin - 4,CAUSES,monocrotaline,29249493
+hypertension,ASSOCIATED_WITH,ventular,29249587
+is,TREATED_BY,occlusion,29249590
+hypertension,CAUSES,hypokalemia,29249599
+healthy,ASSOCIATED_WITH,unlthy,29249613
+incce,CAUSES,incinence,29249687
+glomerulopathies,CAUSES,proteinuria,29250696
+glomerulopathies,TREATED_BY,proteinuria,29250696
+tremor,ASSOCIATED_WITH,slowness of movements,29250757
+peripheral,CAUSES,vertigo,29250967
+stroke,ASSOCIATED_WITH,ha,29251227
+nulliparity,ASSOCIATED_WITH,inadequate,29251376
+changes,INCREASES_RISK_OF,deformation,29251696
+combinations,TREATED_BY,hypertensiontension,29251761
+beuma,TREATED_BY,acid peel,29252179
+aspirin,TREATED_BY,clopidogrel,29252672
+hypertension,TREATED_BY,diaphoresis,29252718
+occlusion,TREATED_BY,symptom,29253285
+hypertension,INCREASES_RISK_OF,medicines,29253412
+hypertension,ASSOCIATED_WITH,combination,29253412
+hypertension,ASSOCIATED_WITH,overweight,29253478
+fix,TREATED_BY,breach,29253631
+proteinuria,ASSOCIATED_WITH,overweight,29253844
+neural impairment,TREATED_BY,alleviate,29254100
+diastolic,ASSOCIATED_WITH,hypertens,29254386
+pressure,INCREASES_RISK_OF,unfavorable lifestyle,29254930
+pressure,ASSOCIATED_WITH,unfavorable lifestyle,29254930
+morbid,CAUSES,val,29255316
+complaints,ASSOCIATED_WITH,over,29255319
+phosphodiesterase inhibitors,TREATED_BY,pd,29256125
+iv,TREATED_BY,ivt,29256227
+tirofiban,ASSOCIATED_WITH,tifiban,29256229
+tirofiban,TREATED_BY,tifiban,29256229
+hypertension,ASSOCIATED_WITH,dyspnea,29256906
+genipde,TREATED_BY,ginsenoside1,29257264
+therapy agents,ASSOCIATED_WITH,abterone acetate,29257709
+therapy agents,TREATED_BY,abterone acetate,29257709
+shortness,ASSOCIATED_WITH,anticoagulants,29257737
+diastolic,CAUSES,as,29258737
+β,CAUSES,asaron,29258757
+β,TREATED_BY,asaron,29258757
+antiplatelet,ASSOCIATED_WITH,large,29259123
+antiplatelet,TREATED_BY,large,29259123
+falling,TREATED_BY,vitamin k antagonist,29260237
+hem,ASSOCIATED_WITH,mt,29260256
+mental fatigue,ASSOCIATED_WITH,fatigue,29260619
+tumor cells,CAUSES,escape mechanisms,29260623
+recovered,CAUSES,alive,29261564
+transformation,TREATED_BY,inflammation,29262411
+hypertension,INCREASES_RISK_OF,plasogentor,29262429
+hypertension,ASSOCIATED_WITH,plasogentor,29262429
+growth,INCREASES_RISK_OF,growth restriction,29262487
+stillbirthsbir,ASSOCIATED_WITH,stillbirths,29262968
+al,ASSOCIATED_WITH,),29263162
+anesthesia,ASSOCIATED_WITH,hypertension,29263473
+asymotid,ASSOCIATED_WITH,asym,7050291
+appetite,TREATED_BY,hypertensive,7050726
+ischemia,TREATED_BY,indometha,7050766
+tumour,ASSOCIATED_WITH,drugslet,7051035
+thromboxane,CAUSES,pulmonary hypertension,7051860
+thromboxane,TREATED_BY,pulmonary hypertension,7051860
+th,TREATED_BY,pyr,7053098
+hypertension,ASSOCIATED_WITH,antipertensive drugs,7053286
+hypertensives,ASSOCIATED_WITH,isoproter,7053299
+hyper,ASSOCIATED_WITH,hypertension,7054067
+contraceptive,INCREASES_RISK_OF,hypertension,7055184
+ta,ASSOCIATED_WITH,lesions,7055711
+glycerol,TREATED_BY,hyperosmolar agents,7057229
+obstru,ASSOCIATED_WITH,outflow,7057615
+metop,TREATED_BY,metoprol,7058006
+hyper,CAUSES,occlusion,7058498
+mechanisms,TREATED_BY,desoxycorticosterone,7058911
+nodular,ASSOCIATED_WITH,nodative hyperplasia,7059913
+ad,ASSOCIATED_WITH,blockade,7060244
+ad,TREATED_BY,blockade,7060244
+hypertens,ASSOCIATED_WITH,hypertensive,7061123
+hypertension,ASSOCIATED_WITH,hyper,7061682
+tubular acidosis,ASSOCIATED_WITH,hypertension,7063287
+tubular acidosis,CAUSES,hypertension,7063287
+stroke,ASSOCIATED_WITH,brain,7063725
+hypertension,CAUSES,amputations,7063902
+ische,CAUSES,hyper,7064175
+of,INCREASES_RISK_OF,cerebral hemorrhage,7064181
+hyper,ASSOCIATED_WITH,disease,7065016
+hyper,ASSOCIATED_WITH,hypertension,7065198
+hemorrhage,CAUSES,hypertension,7065775
+systolic murmurs,TREATED_BY,bleeding varices,7066082
+ephedrine,ASSOCIATED_WITH,ep,7066739
+hypertensives,TREATED_BY,pill,7067470
+hypercal,ASSOCIATED_WITH,nor,7068199
+abnormalities,ASSOCIATED_WITH,caffeine contracture,7069330
+h,ASSOCIATED_WITH,gravity,7069801
+h,CAUSES,gravity,7069801
+hypertension,ASSOCIATED_WITH,abnormalities,7070225
+bradykin,ASSOCIATED_WITH,bradyor response,7070602
+metoprol,TREATED_BY,labetalol,7070696
+hypertension,ASSOCIATED_WITH,mass,7071747
+bleeding,ASSOCIATED_WITH,hemma,7071748
+platelet aggregation,TREATED_BY,ischemic,7072482
+hypertens,ASSOCIATED_WITH,episodes,7073127
+hypertens,CAUSES,episodes,7073127
+proteinuria,ASSOCIATED_WITH,hypertension,7073226
+tumors,ASSOCIATED_WITH,hemiparesis,7073439
+acute,TREATED_BY,hypotensive episodes,7073519
+pre - eclampsia,ASSOCIATED_WITH,jaundice,7073998
+nicotinooxymethyl - gamma - tocopherylnicotinate,TREATED_BY,doca,7074984
+hypertens,ASSOCIATED_WITH,hypertensive rats,7074998
+sodium nitroprusside,TREATED_BY,hyper,7075220
+smooth muscle,ASSOCIATED_WITH,hypertension,7075277
+sleep deprivation,ASSOCIATED_WITH,hypertension,7075390
+labetalol,TREATED_BY,clonidine,7075640
+nifedipine,TREATED_BY,metoprolol,7075644
+arterial hypo - and,CAUSES,hypertension,7076733
+arterial hypo - and,TREATED_BY,hypertension,7076733
+hypersecretion,ASSOCIATED_WITH,spontaneous crises,7076800
+emotional stress,ASSOCIATED_WITH,exercise,7077546
+diuretic agents,TREATED_BY,diure,7077902
+sodiumomax,ASSOCIATED_WITH,anti - inflammatory agent,7078269
+changes,ASSOCIATED_WITH,sleep,7079133
+dysphasia,ASSOCIATED_WITH,hem,7080123
+hyperglyce,INCREASES_RISK_OF,glyce,7080130
+hyperglyce,TREATED_BY,glyce,7080130
+l - arginine,TREATED_BY,hypertension,16753767
+per,TREATED_BY,injuryvine,16753786
+pta,CAUSES,restenosis,16753992
+overweight,ASSOCIATED_WITH,obese,16754415
+overweight,TREATED_BY,obese,16754415
+tamoxifen,CAUSES,raloxifen,16754727
+nomega - nitro,TREATED_BY,arginine,16754787
+prehypertension,ASSOCIATED_WITH,high,16754794
+beta,ASSOCIATED_WITH,blocking,16754799
+imidapril,INCREASES_RISK_OF,left,16755142
+amlodi,TREATED_BY,enalapril,16755153
+dysfunction,CAUSES,hyperactivity,16755197
+hypertension,ASSOCIATED_WITH,dietary,16755200
+conguinity,ASSOCIATED_WITH,hyper,16755975
+seizure,CAUSES,injuries,16756044
+microalbumin,INCREASES_RISK_OF,aspi,16756047
+microalbumin,TREATED_BY,aspi,16756047
+imbalance,CAUSES,weight gain,16756496
+erythrocyturia,ASSOCIATED_WITH,proteinuria,16756627
+captop,TREATED_BY,irbesart,16756954
+hox,CAUSES,hypox,16756983
+hyper,TREATED_BY,mig,16757126
+mortality,ASSOCIATED_WITH,thrombotic events,16757296
+rebleeding,ASSOCIATED_WITH,hematomant factor vii,16757825
+rebleeding,TREATED_BY,hematomant factor vii,16757825
+est,TREATED_BY,oxygen,16758356
+ste,ASSOCIATED_WITH,mor,16758371
+inflixima,TREATED_BY,infliximab,16758513
+11beta - hydroxysteroid dehydrogenase,CAUSES,inhibitors,16759088
+impaired glucose toleranceid arteryima media thickness,ASSOCIATED_WITH,dm,16759301
+aldosterin -in,INCREASES_RISK_OF,angiot,16759311
+aldosterin -in,ASSOCIATED_WITH,angiot,16759311
+aldosterin -in,TREATED_BY,angiot,16759311
+neal death1,ASSOCIATED_WITH,pyramidal cells,16759729
+is,TREATED_BY,glutamate,16759753
+aneurys,ASSOCIATED_WITH,wall motion,16760233
+cognitive decline,ASSOCIATED_WITH,cognitive deficit,16760634
+medication,ASSOCIATED_WITH,diuretics,16760680
+medication,TREATED_BY,diuretics,16760680
+hypoxemia,ASSOCIATED_WITH,hypertension,16760705
+inflammation,ASSOCIATED_WITH,micro,16760711
+dobutam,ASSOCIATED_WITH,hyperphy,16761028
+hypertens,ASSOCIATED_WITH,inhibition,16761190
+- 786c,ASSOCIATED_WITH,nos3 polymorphism,16761221
+contraceptive,ASSOCIATED_WITH,stroke,16761299
+ha,ASSOCIATED_WITH,rupture,16761488
+abnormalities,ASSOCIATED_WITH,ascite,16761986
+insulin,INCREASES_RISK_OF,overweight,16762288
+hypertension,ASSOCIATED_WITH,hypomagnesemia,16762312
+cardiovascular outcomes,ASSOCIATED_WITH,dilation,16762358
+hypertrophy,ASSOCIATED_WITH,dialic dysfunction,16762434
+hvr,ASSOCIATED_WITH,obesity,16762576
+asymptomatic,CAUSES,mobile,16762598
+methimazo,TREATED_BY,methima,16762776
+sleep,TREATED_BY,antibiotic therapy,16762878
+obesity,ASSOCIATED_WITH,hyperglycemia,16762942
+white matter,ASSOCIATED_WITH,amyloid deposition,16763176
+cerebral,TREATED_BY,ischemia,16763180
+hemostatic,ASSOCIATED_WITH,thdu,16763191
+hemostatic,TREATED_BY,thdu,16763191
+thermal reactions,CAUSES,vascular stroke,16763403
+regional,TREATED_BY,limb occlusion,16763539
+dysphagia,ASSOCIATED_WITH,hoarseness,16763937
+anagrelide,TREATED_BY,thrombocythaemia,16764090
+tibol,ASSOCIATED_WITH,ti,16764100
+tibol,TREATED_BY,ti,16764100
+amlodipine,ASSOCIATED_WITH,peropril,16764103
+general anaesthesiaot,ASSOCIATED_WITH,general,16764201
+bu,ASSOCIATED_WITH,impairment,16764217
+hyperuricemia,ASSOCIATED_WITH,cardiac event,16764328
+hypertension,CAUSES,morbidity,16764497
+hypertension,ASSOCIATED_WITH,cardiovascular events,16764881
+hyperviscositychemic,INCREASES_RISK_OF,complications,16765126
+spcton,ASSOCIATED_WITH,beta,16765130
+l - arginine,ASSOCIATED_WITH,aging,16765359
+parkinsonian signs,ASSOCIATED_WITH,tremor and,16765380
+plasma,ASSOCIATED_WITH,methyl,16765716
+plasma,CAUSES,methyl,16765716
+plasma,TREATED_BY,methyl,16765716
+clopidogrel,INCREASES_RISK_OF,asrin,16765759
+confusion,CAUSES,gait,16765989
+neural,ASSOCIATED_WITH,of,16766207
+lesion,ASSOCIATED_WITH,lesions,16766384
+beta - blockers,ASSOCIATED_WITH,hypertension,16766516
+beta - blockers,TREATED_BY,hypertension,16766516
+variability,ASSOCIATED_WITH,hyper,16766646
+hypomagnese,ASSOCIATED_WITH,microalbuuria,16766779
+imidapril,TREATED_BY,nifedipine,16766855
+insulin,ASSOCIATED_WITH,dyslipidemia,16767293
+masskine,ASSOCIATED_WITH,tumor,16767296
+pan,TREATED_BY,sp,16767559
+drug eruption,TREATED_BY,bosenta,16767560
+aldoone,ASSOCIATED_WITH,essential hypertension,16767667
+thalidomide,TREATED_BY,dexamethasone,16767919
+ang,CAUSES,ii,16768124
+weakness,ASSOCIATED_WITH,hem,16768758
+short stature,ASSOCIATED_WITH,hyper,16768869
+short stature,TREATED_BY,hyper,16768869
+hem,CAUSES,complications,16768982
+hem,TREATED_BY,complications,16768982
+ischemia,TREATED_BY,inflammation,16769238
+hypertens,TREATED_BY,hypertension,16769252
+thzi,CAUSES,diuretics,16769253
+ximelagatran,ASSOCIATED_WITH,anticoagulant,16769255
+mass,ASSOCIATED_WITH,lesions,16769423
+strokes,CAUSES,proliferation,16769513
+headache,CAUSES,visual disturbances,16769518
+polycythe,ASSOCIATED_WITH,hox,16769575
+polycythe,CAUSES,hox,16769575
+tumors,ASSOCIATED_WITH,tumor,16769837
+hypertension,ASSOCIATED_WITH,abnormalities,16769911
+atherosclerosis,ASSOCIATED_WITH,plaque progression,16769916
+hemorrhage,TREATED_BY,complications,16769953
+hypertenstension,ASSOCIATED_WITH,adverse,16769996
+excess weight,ASSOCIATED_WITH,proinflammatory processes,16770554
+lesions,CAUSES,perforator strokes,16770669
+curcumin,TREATED_BY,ischemia,16770732
+occlusion,ASSOCIATED_WITH,neuro,16770774
+narrowing,CAUSES,pain,16770929
+rupt,ASSOCIATED_WITH,rupture,16771133
+hyperinsulinemia,ASSOCIATED_WITH,resist,16771945
+hypertension,ASSOCIATED_WITH,insulin,16772245
+kv1opathy,INCREASES_RISK_OF,chaotic,16772329
+kv1opathy,CAUSES,chaotic,16772329
+phospholamban,CAUSES,threonine - 17,16772527
+aldoone,TREATED_BY,aldo,16772627
+hypertension,ASSOCIATED_WITH,blood pressure,16772636
+cyclooxygenase - 2 inhibitor,TREATED_BY,celecoxib,16772765
+antiiral,ASSOCIATED_WITH,anti,16772767
+bleeding,CAUSES,varices,16772844
+energy failure,CAUSES,inct,16773141
+bleeding,CAUSES,splengal,16773174
+strokes,CAUSES,vascular event,16773275
+bleeding,TREATED_BY,hypotension,16773308
+ischemia,ASSOCIATED_WITH,hypertensive syndrome,16773397
+amiloride,CAUSES,cya,16773404
+ur,TREATED_BY,urokinase,16773802
+lossphrons,ASSOCIATED_WITH,hypertrophy,16774009
+sleep - disordered breathing,INCREASES_RISK_OF,overweight,16774156
+sleep - disordered breathing,ASSOCIATED_WITH,overweight,16774156
+hypertension,CAUSES,hypoxemiaea,16774297
+iv,ASSOCIATED_WITH,tpa,16774623
+iv,TREATED_BY,tpa,16774623
+restriction,ASSOCIATED_WITH,nerogenesis,16774903
+restriction,CAUSES,nerogenesis,16774903
+atrial fibrillation,ASSOCIATED_WITH,thrombin inhibitor,16774980
+hypertension,ASSOCIATED_WITH,probeneci,16775029
+iv,TREATED_BY,hemorrhage,16775259
+ang,ASSOCIATED_WITH,is,16775386
+mor,ASSOCIATED_WITH,mortality,16775448
+hyper,INCREASES_RISK_OF,hypercemia,16775449
+hyper,ASSOCIATED_WITH,hypercemia,16775449
+stevioside,TREATED_BY,essential hyper,16775813
+adenovira,TREATED_BY,is,16776573
+headache,ASSOCIATED_WITH,hypertension,16776699
+hypertension,ASSOCIATED_WITH,arterial stiffness,16776744
+angiotensin - converting enzyme (,ASSOCIATED_WITH,ace ) inhibitors,16776746
+rupt,ASSOCIATED_WITH,free fluid,16776908
+que,ASSOCIATED_WITH,aptosis,16777073
+hypertension,CAUSES,anxiety,16777235
+stroke,ASSOCIATED_WITH,restenosis,16777443
+pp,ASSOCIATED_WITH,fat cells,16777491
+near,ASSOCIATED_WITH,antibiotics,16777611
+near,TREATED_BY,antibiotics,16777611
+lesion,ASSOCIATED_WITH,deficit,16777773
+sleep apnea,INCREASES_RISK_OF,hypertens,16778262
+sleep apnea,TREATED_BY,hypertens,16778262
+hypertension,ASSOCIATED_WITH,serotonin,16778329
+imidapril,CAUSES,mass,16778332
+nitric,ASSOCIATED_WITH,oxide,16778463
+hypertens,INCREASES_RISK_OF,hypertensive,16778545
+obesity,CAUSES,metabolic effects,16778579
+hypertension,ASSOCIATED_WITH,field defects,16778642
+la,TREATED_BY,latan,16778647
+vascular events,CAUSES,diabetic,16778755
+irbesartan,ASSOCIATED_WITH,antipertensive medications,16779715
+irbesartan,TREATED_BY,antipertensive medications,16779715
+microem,TREATED_BY,signal,16780057
+is,ASSOCIATED_WITH,discomfort,16780063
+is,CAUSES,discomfort,16780063
+anti,ASSOCIATED_WITH,hypertensive effects,16780105
+premature vent,ASSOCIATED_WITH,premature ventricular complexes,16780261
+bosenta,ASSOCIATED_WITH,bosentan,16780392
+hypertension,ASSOCIATED_WITH,hypertensive,16780672
+rub,TREATED_BY,symptom aggravation,16780735
+antil therapy,ASSOCIATED_WITH,metabolic disturbances,16781213
+antil therapy,TREATED_BY,metabolic disturbances,16781213
+irartan,INCREASES_RISK_OF,clgrel,16781218
+asymptomatic,ASSOCIATED_WITH,lower forward stroke,16781383
+-,ASSOCIATED_WITH,midostaurin,16781385
+-,TREATED_BY,midostaurin,16781385
+gin,ASSOCIATED_WITH,biloba,16781654
+genetic polymorphismgulation factors,INCREASES_RISK_OF,heterozygous,16781765
+genetic polymorphismgulation factors,ASSOCIATED_WITH,heterozygous,16781765
+dysfunctional neuronal networkscon,CAUSES,contraction,16781989
+arterial stiffness,ASSOCIATED_WITH,inflammation,16782104
+is,ASSOCIATED_WITH,cells,16782130
+nebivolol,TREATED_BY,dysfunction,16783065
+hypertension,TREATED_BY,angiotensin - converting enzyme ( ace ) inhibitors,16783270
+va,ASSOCIATED_WITH,hyper,16783552
+hypertension,ASSOCIATED_WITH,hypertens,16783876
+complex,TREATED_BY,lesions,16784316
+thledindiones,ASSOCIATED_WITH,pi,16784897
+serotoninake inhibitors,ASSOCIATED_WITH,depression,16784918
+tumor,ASSOCIATED_WITH,arrhhmia,16784921
+diasto,ASSOCIATED_WITH,dysfunction,16784933
+oxtive stress,ASSOCIATED_WITH,d,16784966
+at,ASSOCIATED_WITH,perturbation,16785050
+hyper,ASSOCIATED_WITH,high,16785148
+adrenaline,ASSOCIATED_WITH,nora,16785272
+adrenaline,CAUSES,nora,16785272
+angiotin receptor blocker,ASSOCIATED_WITH,antihypertens,16785331
+angiotin receptor blocker,TREATED_BY,antihypertens,16785331
+tamoxifen,ASSOCIATED_WITH,medroprogesterone acetate,8280653
+valvular abnormalities,CAUSES,abnormalities,8281200
+absence,TREATED_BY,end - diastolic velocity,8281495
+nitrendi,ASSOCIATED_WITH,lisinopril,8281528
+diuretics,TREATED_BY,ace,8281530
+bidirectional shunt,ASSOCIATED_WITH,bidal shunt,8281535
+t,ASSOCIATED_WITH,t wave changes,8281541
+dobutamine,ASSOCIATED_WITH,augments,8281641
+arrhythmias,INCREASES_RISK_OF,tachycard,8281651
+resteno,TREATED_BY,lesions,8281662
+circulation,ASSOCIATED_WITH,hypoxia,8281709
+circulation,CAUSES,hypoxia,8281709
+aldosterone,ASSOCIATED_WITH,insulin,8281727
+ischaemia,TREATED_BY,hypertension,8281954
+ischaemia,INCREASES_RISK_OF,hypertrophy,8281958
+ischaemia,INCREASES_RISK_OF,hypertrophied,8281960
+converting - enzyme inhibitors,ASSOCIATED_WITH,hyper,8281962
+hypertension,TREATED_BY,hyper,8282132
+hyperreflexia,TREATED_BY,headache,8282146
+cv,ASSOCIATED_WITH,thromboxane a2,8282273
+enalapril,TREATED_BY,nitrendipine,8282322
+hypertension,ASSOCIATED_WITH,organ injuriestens,8282332
+beta - blocker,TREATED_BY,converting enzyme inhibitor,8282334
+glomulo,TREATED_BY,glom,8282335
+bufalin,ASSOCIATED_WITH,potassium atp,8282340
+inhibitors,ASSOCIATED_WITH,hypertensive rats,8282348
+lisinopril,TREATED_BY,metoprolol,8282350
+chlorthalidon,ASSOCIATED_WITH,hypertrophy,8282354
+chlorthalidon,TREATED_BY,hypertrophy,8282354
+hypertens,TREATED_BY,hypertensionerone acetate,8282355
+nifedipinecl,ASSOCIATED_WITH,cyclosporine,8282363
+abnormalities,ASSOCIATED_WITH,hypertension,8282367
+nephropathy,TREATED_BY,hypertension,8282368
+hypertension,ASSOCIATED_WITH,albuminuria,8282370
+hypertension,TREATED_BY,lacunae,8282371
+captopril,TREATED_BY,renin,8282377
+abnormal,ASSOCIATED_WITH,pressure,8282380
+age,ASSOCIATED_WITH,hypertension,8282381
+hyper,TREATED_BY,micropeptide y,8282383
+low,ASSOCIATED_WITH,preeclamps,8282605
+hypertension,TREATED_BY,guanosine 3,8282611
+hypertension,TREATED_BY,incompetence,8282745
+resistive system,ASSOCIATED_WITH,symptoms,8282884
+gemfibrozi,CAUSES,adverse events,8283157
+symptoms,ASSOCIATED_WITH,ja,8283375
+failing,ASSOCIATED_WITH,infarction,8283476
+hypertensive,ASSOCIATED_WITH,hypertensive rats,8284265
+pain,ASSOCIATED_WITH,risk,8284715
+ische,INCREASES_RISK_OF,weakness,8284727
+hyper,INCREASES_RISK_OF,hypertens,8285112
+thrombotosis,CAUSES,alpha - 2b,8285117
+converting enzyme inhibitors,ASSOCIATED_WITH,ang,8285181
+converting enzyme inhibitors,TREATED_BY,ang,8285181
+cough,ASSOCIATED_WITH,angiotensin - converting enzyme ( ace ) inhibitors,8285182
+proteinuria,CAUSES,hypertension,8285186
+glomerulonephritis,ASSOCIATED_WITH,hypertension,8285192
+glomerulonephritis,CAUSES,hypertension,8285192
+glomerulonephritis,TREATED_BY,hypertension,8285192
+hypertension,ASSOCIATED_WITH,hyperactivity,8285270
+doxazos,TREATED_BY,doxa,8285380
+hypertension,ASSOCIATED_WITH,weight,8285814
+hypertension,ASSOCIATED_WITH,nicking,8285901
+cardiomegaly,ASSOCIATED_WITH,hypertrophy,8286834
+high,INCREASES_RISK_OF,pressure,8287153
+high,ASSOCIATED_WITH,pressure,8287153
+hypertrophy,ASSOCIATED_WITH,nifedipined,8287388
+hypertrophy,TREATED_BY,nifedipined,8287388
+hypertension,ASSOCIATED_WITH,over,8287722
+cocaine,ASSOCIATED_WITH,norepine,8287915
+cocaine,CAUSES,norepine,8287915
+snoringnoring,INCREASES_RISK_OF,habit,8287955
+snoringnoring,ASSOCIATED_WITH,habit,8287955
+proteinuria,ASSOCIATED_WITH,recovered,8288012
+necrosis,ASSOCIATED_WITH,hematoma,8288134
+hyperuricemia,ASSOCIATED_WITH,insulin,8288709
+compression,ASSOCIATED_WITH,muscular contractionsto,8288925
+hypertension,CAUSES,hum,8288976
+hypercholesterolemia,INCREASES_RISK_OF,hyperlipidemia,8289524
+hypoxemia,ASSOCIATED_WITH,damage,8289700
+ang,TREATED_BY,antagonist,8289994
+antiplatelet agents,ASSOCIATED_WITH,recurrence,8290937
+growth,CAUSES,mast cells,8291269
+dp,CAUSES,cough,8291270
+warfarin,TREATED_BY,bleeding,8291287
+hypotension,ASSOCIATED_WITH,sevoflurane,8291705
+head,TREATED_BY,up tilt,8292883
+altered mitochondria,ASSOCIATED_WITH,neuropathies,8293179
+pain,CAUSES,parace,8293490
+hexamethylpropylene amineoxime,ASSOCIATED_WITH,hm,8293621
+ethanol,INCREASES_RISK_OF,contraction,8293788
+amlodipine,TREATED_BY,hypertension,8294330
+hemostasis,ASSOCIATED_WITH,pain,8294690
+hematemesis,TREATED_BY,rupt,8296085
+pressure,ASSOCIATED_WITH,job,8296179
+alpha,ASSOCIATED_WITH,interfer,8296798
+alpha,CAUSES,interfer,8296798
+thie,ASSOCIATED_WITH,symptoms,8296812
+olusion,ASSOCIATED_WITH,occlu,8296824
+impairment,ASSOCIATED_WITH,adverse,8296844
+hypertension,TREATED_BY,hyper,8297536
+hypertension,ASSOCIATED_WITH,hypercholes,8297539
+fluvastatin,CAUSES,hypertens,8297542
+p,ASSOCIATED_WITH,iodoamphetamine,8298578
+hypertension,ASSOCIATED_WITH,hyperlipidemia,8299026
+ischemic attack,CAUSES,symptoms,8299027
+dysfunction,CAUSES,symptoms,8299207
+loss,ASSOCIATED_WITH,preserved consciousness,8299284
+sensory,ASSOCIATED_WITH,numbness,8299433
+insulin,ASSOCIATED_WITH,linoleic acid,8299435
+hyperulinemia,ASSOCIATED_WITH,hyperinsulinemiadd,8299479
+streptokinase,TREATED_BY,thrombus,8299630
+beta - adrenergic - blockers,TREATED_BY,nitrates,8299633
+ecy,ASSOCIATED_WITH,ectopic rhythms,8299639
+ecy,CAUSES,ectopic rhythms,8299639
+amlodipine,ASSOCIATED_WITH,hyper,8299661
+seroton,CAUSES,vasopressin,8299856
+prostaandin e1,ASSOCIATED_WITH,glyceryl trinitrate therapy,8299860
+glucocoroidstension,ASSOCIATED_WITH,vision loss,8300356
+glucocoroidstension,TREATED_BY,vision loss,8300356
+atenolol,TREATED_BY,labetalol,8300464
+stenosis,INCREASES_RISK_OF,plaque,8300708
+stenosis,ASSOCIATED_WITH,plaque,8300708
+compression,TREATED_BY,hyper,8300713
+peptic ulceration,ASSOCIATED_WITH,cy,8301036
+colchicine,TREATED_BY,hypertension,8301049
+variant,ASSOCIATED_WITH,insulin,8301111
+tortuosity,ASSOCIATED_WITH,aging,8301316
+gliomas,ASSOCIATED_WITH,seizuresmptom,8301376
+vasoactive drugs,ASSOCIATED_WITH,tolazo,8301459
+vasoactive drugs,TREATED_BY,tolazo,8301459
+glycolipid,TREATED_BY,liga20,8301588
+ce,ASSOCIATED_WITH,as,8301727
+sevoflura,CAUSES,enflura,8301820
+blood pressure,ASSOCIATED_WITH,ischemic,8301855
+hemorrhage,ASSOCIATED_WITH,hemrhages,8302022
+catecholamine,ASSOCIATED_WITH,tumor,8302154
+cizapril,ASSOCIATED_WITH,hypertens,8302395
+hypertension,TREATED_BY,antihypertensive drugs,8302396
+hyper,INCREASES_RISK_OF,sulurea,8302399
+an,TREATED_BY,rhuepo,8302417
+nicardipine,TREATED_BY,hypertens,8302442
+hypoxia,ASSOCIATED_WITH,symptoms,8302812
+hyperinsulinemiaid,CAUSES,insulin,8303118
+ascite,ASSOCIATED_WITH,ascites,8303315
+ascite,TREATED_BY,ascites,8303315
+diltiazem,ASSOCIATED_WITH,dilren,8303596
+ischemic,ASSOCIATED_WITH,calcium channel,8303669
+hematoma,ASSOCIATED_WITH,hem,8303734
+hematoma,TREATED_BY,hem,8303734
+plaque,ASSOCIATED_WITH,ul,8303736
+magnetic resonance abnormalities,ASSOCIATED_WITH,abnormalities,8303738
+bleeding,ASSOCIATED_WITH,stroke,8303741
+dependence,CAUSES,mass,8303747
+blood,ASSOCIATED_WITH,activator,8303756
+blood,TREATED_BY,activator,8303756
+cerebral,TREATED_BY,ischemia,8303759
+methylprednis,TREATED_BY,methylpred,8303761
+ischemic attack,INCREASES_RISK_OF,h,8303766
+hypertensive,ASSOCIATED_WITH,killip,8304357
+atenolo,TREATED_BY,enpr,8304366
+insulin,ASSOCIATED_WITH,essential hypertension,8304482
+hypoxia,ASSOCIATED_WITH,delayed,8304521
+sleep apnea,ASSOCIATED_WITH,hypertension,8304655
+choroidal perfusion defects,TREATED_BY,hypertension,8304689
+hyperulinaemia,ASSOCIATED_WITH,hyper,8304913
+diet,ASSOCIATED_WITH,medications,8305001
+insulin,ASSOCIATED_WITH,dyslyside,8305168
+1,TREATED_BY,vitamin d,8305169
+complications,ASSOCIATED_WITH,em,8305193
+sleep apnea,TREATED_BY,ap,8305638
+aspirin,CAUSES,captop,8305640
+aspirin,TREATED_BY,captop,8305640
+symptoms,ASSOCIATED_WITH,sodium,8305646
+symptoms,TREATED_BY,sodium,8305646
+arterial hypertension,CAUSES,hyperlipidemia,8305844
+dietary,ASSOCIATED_WITH,chloride,8306519
+hypertriglyceridaemic,ASSOCIATED_WITH,hypertension,8306545
+calcification,ASSOCIATED_WITH,anulus,8306733
+alteration of intensity,ASSOCIATED_WITH,the second,8306847
+alteration of intensity,CAUSES,the second,8306847
+headache,TREATED_BY,hypertension,8306852
+arterial hypertension,TREATED_BY,hypercortisolism,8306853
+hydroflumethiazide,CAUSES,propranolol,8306902
+insulin,ASSOCIATED_WITH,fasting,8307262
+calcium,ASSOCIATED_WITH,ische,8307625
+ana,ASSOCIATED_WITH,flushing,8308182
+hyper,INCREASES_RISK_OF,stroke,8308479
+hyper,ASSOCIATED_WITH,stroke,8308479
+complications,ASSOCIATED_WITH,complications producing morbidity,8308980
+isoura,ASSOCIATED_WITH,n2o,8309044
+block,ASSOCIATED_WITH,hyperagulable statebrosis,8309360
+block,CAUSES,hyperagulable statebrosis,8309360
+mass,ASSOCIATED_WITH,enlar,8309752
+haemodynamic disturbances,ASSOCIATED_WITH,peripheral resistance,8310245
+hyper,ASSOCIATED_WITH,hypertension,8310255
+anticardiolipin,TREATED_BY,complications,8310361
+leoa,ASSOCIATED_WITH,ischemia,12433835
+hyperhomocysteinemia,ASSOCIATED_WITH,l,12433838
+sub,ASSOCIATED_WITH,paraplegia,12433857
+hyper,ASSOCIATED_WITH,metaite,12433862
+hyper,CAUSES,metaite,12433862
+cardiac structure,ASSOCIATED_WITH,lean body mass,12433864
+cardiac structure,CAUSES,lean body mass,12433864
+th,ASSOCIATED_WITH,macrocrania,12434180
+nico,ASSOCIATED_WITH,cottylcholin,12434396
+estrogen,ASSOCIATED_WITH,hypertension,12434525
+estrogen,TREATED_BY,hypertension,12434525
+ed,CAUSES,edema,12434652
+hypertens,CAUSES,stroke,12435117
+antiplatelet,ASSOCIATED_WITH,asrin,12435254
+antiplatelet,CAUSES,asrin,12435254
+antiplatelet,TREATED_BY,asrin,12435254
+hypertension,TREATED_BY,beta - blocker,12435255
+aspirin,TREATED_BY,vascular,12435257
+serop,ASSOCIATED_WITH,ser,12435775
+serop,CAUSES,ser,12435775
+childhood growth,ASSOCIATED_WITH,hypertension,12435782
+mycophenolate mofetil,TREATED_BY,tub,12435874
+neo,TREATED_BY,involvement,12436149
+high,ASSOCIATED_WITH,diuretics,12436155
+high,TREATED_BY,diuretics,12436155
+mutation,ASSOCIATED_WITH,stroke,12436342
+ascite,ASSOCIATED_WITH,oesophageal varices,12436367
+o,CAUSES,ha,12436394
+drowsiness,TREATED_BY,seizures,12436395
+soy protein,ASSOCIATED_WITH,soy,12436761
+vasopressin antagonist,TREATED_BY,1 - phenylsulfonylindolines,12436936
+abnormalities,ASSOCIATED_WITH,ace inhibitors,12436944
+angin - converting enzyme ( ace ) inhibitors,ASSOCIATED_WITH,at,12437489
+endelin - 1,ASSOCIATED_WITH,antagonist,12437501
+altytic,TREATED_BY,alteplase,12437508
+deficiency,ASSOCIATED_WITH,injury,12437588
+hypertension,ASSOCIATED_WITH,hyper,12438173
+insulin,ASSOCIATED_WITH,dmia,12438174
+angiotin - converting enzyme inhibitor,ASSOCIATED_WITH,perindopril,12438525
+angiotin - converting enzyme inhibitor,TREATED_BY,perindopril,12438525
+bruising,ASSOCIATED_WITH,anticoag,12439052
+bruising,TREATED_BY,anticoag,12439052
+risk,INCREASES_RISK_OF,ischemic attacks,12439143
+complication,INCREASES_RISK_OF,com,12439146
+hydroxy - methylglutaryl,TREATED_BY,coenzyme a reductase inhibitors,12439225
+fenoldopam,TREATED_BY,fenopa,12439365
+gprotein iib,INCREASES_RISK_OF,iiia,12439433
+gprotein iib,ASSOCIATED_WITH,iiia,12439433
+poly,INCREASES_RISK_OF,825c,12439636
+poly,CAUSES,825c,12439636
+high,ASSOCIATED_WITH,pressure,12439839
+mor,CAUSES,mortality,12440520
+hypertension,TREATED_BY,hypotension,12440561
+norine,ASSOCIATED_WITH,milrinone,12440615
+hypertension,CAUSES,deterioration,12440662
+hypertension,INCREASES_RISK_OF,sudden death,12440663
+anysm,ASSOCIATED_WITH,stroke,12440671
+pain,ASSOCIATED_WITH,hypertension,12440675
+alterations,ASSOCIATED_WITH,hyper,12440782
+hypertension,INCREASES_RISK_OF,cognitive impairment,12441015
+17beta,ASSOCIATED_WITH,estradiol,12441188
+nifedipine,ASSOCIATED_WITH,nifed,12441210
+nifedipine,TREATED_BY,nifed,12441210
+adverse drug events,ASSOCIATED_WITH,hypertension,12441214
+hypertension,INCREASES_RISK_OF,hyper,12441215
+hypertension,CAUSES,hyper,12441215
+hypertension,ASSOCIATED_WITH,hypertens,12441216
+melatonin,ASSOCIATED_WITH,inflammation,12441307
+melatonin,TREATED_BY,inflammation,12441307
+adenosine,ASSOCIATED_WITH,iloprost,12441759
+adenosine,CAUSES,iloprost,12441759
+va,CAUSES,arress,12441768
+intact,ASSOCIATED_WITH,myxedema,12441836
+lipid,ASSOCIATED_WITH,modifying,12441889
+hemiomsis,ASSOCIATED_WITH,micro,12441898
+hemiomsis,CAUSES,micro,12441898
+hemiomsis,TREATED_BY,micro,12441898
+morbid,ASSOCIATED_WITH,ste,12442088
+angiotin,TREATED_BY,converting enzyme inhibitors,12442102
+hyper,ASSOCIATED_WITH,crises,12442198
+hyper,TREATED_BY,crises,12442198
+sub,ASSOCIATED_WITH,sublux,12443520
+renal effects,TREATED_BY,cyclosporinepor,12444215
+lipid perox,ASSOCIATED_WITH,hyper,12444219
+depressionity,ASSOCIATED_WITH,depression,12444229
+insulin,ASSOCIATED_WITH,lip,12444308
+delirium tremens,ASSOCIATED_WITH,delum,12444353
+symptoms,ASSOCIATED_WITH,stroke - like43g,12444382
+protein c,ASSOCIATED_WITH,sepsis,12444386
+amlodipine,TREATED_BY,nifedip,12444542
+csa,ASSOCIATED_WITH,cereport,12445688
+csa,TREATED_BY,cereport,12445688
+inflammationmia,ASSOCIATED_WITH,aging,12445885
+di,TREATED_BY,dizzy sensation,12445982
+vasodilation,ASSOCIATED_WITH,distensibility,12446067
+mass,CAUSES,hyperphy,12446071
+epopten,ASSOCIATED_WITH,epoptenol,12446266
+epopten,TREATED_BY,epoptenol,12446266
+hypertension,ASSOCIATED_WITH,hyper,12446269
+changes,ASSOCIATED_WITH,del44c mutation,12446270
+angiotinogen,ASSOCIATED_WITH,sulforhodam,12446468
+stroke - like episodes,ASSOCIATED_WITH,stroke,12446471
+aldoone,ASSOCIATED_WITH,angiot,12446610
+tumor,ASSOCIATED_WITH,necrosis,12446992
+sodium,TREATED_BY,hydrogen ion exchange inhibitor,12447176
+hypertension,ASSOCIATED_WITH,pulmonary vascular changes,12448070
+hyperlip,ASSOCIATED_WITH,hyperlipidemia,12448198
+ventricular,INCREASES_RISK_OF,hypertrophy,12448569
+gap,ASSOCIATED_WITH,inhibitors,12448696
+strokes,ASSOCIATED_WITH,hemorrhages,12448836
+sleep,TREATED_BY,wakefulness,12448942
+right ventricular dilatation,ASSOCIATED_WITH,hyperphy,12449189
+hypertension,ASSOCIATED_WITH,olab,12449433
+hyperhomocyst,INCREASES_RISK_OF,inemia,12450225
+antiplatelet regime,ASSOCIATED_WITH,antithbotic agents,12450231
+pathogen,ASSOCIATED_WITH,embolism,12450236
+is,ASSOCIATED_WITH,symptoms,12450238
+lesions,ASSOCIATED_WITH,stenosis,12450241
+calcium antagonist,TREATED_BY,hypertens,12450247
+hypertensive changes,TREATED_BY,hypertensive,12450248
+rafen,ASSOCIATED_WITH,placebo,12450599
+st - segment abnormalities,ASSOCIATED_WITH,st - segment depression,12451004
+orthostatic symptoms,ASSOCIATED_WITH,syncope,12451007
+flow,ASSOCIATED_WITH,stretch,12451014
+flow,CAUSES,stretch,12451014
+younger age,ASSOCIATED_WITH,hyperlipidemia,12451194
+hypertension,INCREASES_RISK_OF,physical inactivity,12451195
+antihypertensive compound,ASSOCIATED_WITH,diuretic activity,12451321
+variction,INCREASES_RISK_OF,sleep,12451851
+general anesthesia,TREATED_BY,pain,12452222
+hypertension,ASSOCIATED_WITH,hypertensive,12452260
+hypertension,ASSOCIATED_WITH,damage,12452315
+hyper,ASSOCIATED_WITH,compliance,12452321
+hypertension,ASSOCIATED_WITH,polymorphism,12452325
+hypertension,TREATED_BY,hyper,12452334
+ac,ASSOCIATED_WITH,acitret,12452748
+ac,TREATED_BY,acitret,12452748
+ang,ASSOCIATED_WITH,irbesartan,12452749
+hyper,CAUSES,hypercholesterolemia,12453077
+thromed,ASSOCIATED_WITH,draining,12453655
+medication,TREATED_BY,statin,12454325
+thbi,CAUSES,aggregation,12454370
+hypertension,ASSOCIATED_WITH,aggregationtension,12454372
+complications,ASSOCIATED_WITH,morbidity,12455117
+complications,TREATED_BY,morbidity,12455117
+mass,CAUSES,les,12455560
+hyperfiltration,TREATED_BY,hyper,12455714
+adipone,ASSOCIATED_WITH,hypertens,12455716
+lesions,TREATED_BY,is,12455789
+white matter changes,ASSOCIATED_WITH,hyperintensity progression,12456049
+cognitive impairment,ASSOCIATED_WITH,gait,12456050
+contraction,ASSOCIATED_WITH,r wave,12456138
+strokes,INCREASES_RISK_OF,hyperchoterol,12456227
+strokes,ASSOCIATED_WITH,hyperchoterol,12456227
+gemfibrozil,ASSOCIATED_WITH,glucose,12456232
+cell,ASSOCIATED_WITH,cycle arrest,12456485
+hypertrophy,ASSOCIATED_WITH,monocrotaline,12456492
+hypertrophy,CAUSES,monocrotaline,12456492
+hypertrophy,TREATED_BY,monocrotaline,12456492
+hyperglycaemia,INCREASES_RISK_OF,hypertension,12457293
+hyperglycaemia,ASSOCIATED_WITH,hypertension,12457293
+sesterpene trilactone,ASSOCIATED_WITH,bibal,12457632
+ace inhibitors,TREATED_BY,beta,12457785
+anatomic changes,ASSOCIATED_WITH,atherosclerosis,12459418
+antiplate,ASSOCIATED_WITH,fistulae,12460045
+antiplate,TREATED_BY,fistulae,12460045
+hypertension,ASSOCIATED_WITH,hypercholesterolemia,12460522
+hypertension,ASSOCIATED_WITH,cardiovascular events,12460700
+angiotin ii antagonist,ASSOCIATED_WITH,irbesartan,12460701
+angiotin ii antagonist,TREATED_BY,irbesartan,12460701
+fibroplasia,CAUSES,hyperrioles,12460702
+at1,TREATED_BY,valsar,12460705
+-,ASSOCIATED_WITH,nondipping,12461196
+hypertension,ASSOCIATED_WITH,dysfunction,12461307
+eplerenone,ASSOCIATED_WITH,aldo,12461313
+stroke,ASSOCIATED_WITH,strokes,12461606
+hypertension,TREATED_BY,obesity,12461660
+nity,ASSOCIATED_WITH,no,12461733
+fever,TREATED_BY,all,12462033
+obesity,ASSOCIATED_WITH,central adiposity,12462278
+hypertension,ASSOCIATED_WITH,angiot,12462282
+sildenafil,TREATED_BY,si,12462670
+motor impairment,ASSOCIATED_WITH,affected hand movement,12462764
+motor impairment,TREATED_BY,affected hand movement,12462764
+perfusion defects,CAUSES,abnormal perfusion defects,12463095
+atrial,INCREASES_RISK_OF,angiotin converting enzyme inhibitorsrial fibrillation,12463096
+aldosterone,ASSOCIATED_WITH,hypertension,12463264
+complication,TREATED_BY,symptomatic stenosis,12463487
+mority,ASSOCIATED_WITH,lesions,12463622
+bleeding,INCREASES_RISK_OF,iiia,12463732
+bleeding,ASSOCIATED_WITH,iiia,12463732
+sleep apnoea,ASSOCIATED_WITH,onset,12464101
+enslaved,ASSOCIATED_WITH,enaving,12464342
+hyperalgesiapt,ASSOCIATED_WITH,vascular permeability changes,12464357
+reactive oxygen,ASSOCIATED_WITH,antioxidants,12464405
+surufatinib,TREATED_BY,anti,30833272
+medicationsopge,ASSOCIATED_WITH,fra,30834583
+medicationsopge,TREATED_BY,fra,30834583
+mass,ASSOCIATED_WITH,aortic valve area,30834592
+norm,ASSOCIATED_WITH,hypertensive,30834672
+hypertension,ASSOCIATED_WITH,atheros,30834690
+arterial hypertension,ASSOCIATED_WITH,habits,30834766
+calciphylaxis,CAUSES,war,30834840
+proteasome inhibitors,ASSOCIATED_WITH,im,30834998
+proteasome inhibitors,TREATED_BY,im,30834998
+micheliolide,TREATED_BY,cardiotoxicity,30835049
+grape seed proanthocyanidins,ASSOCIATED_WITH,grape seedanthocyanidins,30835051
+hypertensive disease,ASSOCIATED_WITH,hypertension,30835575
+acidosis,CAUSES,ischemia,30835994
+cerebrovascular involvement,CAUSES,asymptoma,30836432
+organ damage,ASSOCIATED_WITH,hypertension,30836778
+onset,ASSOCIATED_WITH,symptoms,30836908
+stroke,CAUSES,cea,30837178
+complication,TREATED_BY,anysm,30837181
+diabetic,ASSOCIATED_WITH,hypertensive,30837182
+complication,INCREASES_RISK_OF,neurological complication,30837193
+complication,TREATED_BY,neurological complication,30837193
+coffee,ASSOCIATED_WITH,hypertension,30838377
+tifiban,ASSOCIATED_WITH,platelet aggregation,30838514
+apixaban,ASSOCIATED_WITH,vitamin k antagonist,30838557
+anatomical sequels,ASSOCIATED_WITH,arrhythmic events,30838716
+hnsion,ASSOCIATED_WITH,hion,30838899
+is,ASSOCIATED_WITH,stroke,30839193
+hyper,ASSOCIATED_WITH,dlip,30839239
+iv,TREATED_BY,ivab,30839398
+- β - cyclodextrin,ASSOCIATED_WITH,vasoconstriction,30840346
+inflammation,ASSOCIATED_WITH,polymorphism,30840371
+ang,ASSOCIATED_WITH,pulmonary hypertensionenal,30840486
+ang,CAUSES,pulmonary hypertensionenal,30840486
+ang,TREATED_BY,pulmonary hypertensionenal,30840486
+kolavirontramitter,TREATED_BY,electron,30841465
+decompression,ASSOCIATED_WITH,retinopathy,30841750
+antiplatelet,ASSOCIATED_WITH,antiplatelet therapy,30841818
+antiplatelet,TREATED_BY,antiplatelet therapy,30841818
+iv,ASSOCIATED_WITH,tpa,30841820
+iv,TREATED_BY,tpa,30841820
+physical,ASSOCIATED_WITH,plaques,30842104
+shunt,INCREASES_RISK_OF,polysp,30842375
+shunt,ASSOCIATED_WITH,polysp,30842375
+hypertension,CAUSES,antihypertens,30842611
+insulin,TREATED_BY,sotin,30843181
+heteros,ASSOCIATED_WITH,event - related changes,30843796
+inflammation,ASSOCIATED_WITH,ismia,30843911
+polypharmacy,ASSOCIATED_WITH,antiretroviral therapy,30844304
+antibiotic,ASSOCIATED_WITH,piperacillin - tazobactam,30844435
+vascular events,ASSOCIATED_WITH,vascular,30844663
+ser,ASSOCIATED_WITH,reake inhibitors,30844812
+ser,TREATED_BY,reake inhibitors,30844812
+escitalopram,TREATED_BY,clomipr,30844852
+stroke,TREATED_BY,neurological,30846245
+perexed,ASSOCIATED_WITH,chemotherapy,30846285
+protein,ASSOCIATED_WITH,inhibitors,30846469
+cardiac symptoms,INCREASES_RISK_OF,symptoms,30846522
+cardiac symptoms,ASSOCIATED_WITH,symptoms,30846522
+cardiac symptoms,CAUSES,symptoms,30846522
+fatigue,ASSOCIATED_WITH,enlargement,30846829
+hypertension,ASSOCIATED_WITH,arterial stiff,30846869
+prescribed,ASSOCIATED_WITH,medications,30847495
+hemorrhage,ASSOCIATED_WITH,inflation,30847500
+stroke,ASSOCIATED_WITH,fresh,30847644
+hemorrhage,ASSOCIATED_WITH,glycoprotein iib / iiia inhibitor,30848283
+hypertension,TREATED_BY,angina,30848742
+healthier lifestyle,ASSOCIATED_WITH,un,30848743
+amenorr,ASSOCIATED_WITH,hyperprolactinemia,30848754
+amenorr,TREATED_BY,hyperprolactinemia,30848754
+renal phpholipidosis,ASSOCIATED_WITH,hypomagnesemia,30848940
+older,ASSOCIATED_WITH,habitation,30849347
+hyperoxygenation,ASSOCIATED_WITH,hyperoxy,30849354
+hypertension,ASSOCIATED_WITH,ascites,30849786
+hypertension,ASSOCIATED_WITH,hypertens,30849931
+hyperglycemia,ASSOCIATED_WITH,hypertension,30850269
+hyper,INCREASES_RISK_OF,hypertensive,30850753
+furose,ASSOCIATED_WITH,antihypertens,30850754
+inhibition,ASSOCIATED_WITH,channels,30851197
+inhibition,CAUSES,channels,30851197
+antiretl,ASSOCIATED_WITH,antiiral,30851231
+sleep apnea,ASSOCIATED_WITH,plaque,30851255
+bleeding,ASSOCIATED_WITH,bleeding revision,30851258
+cal,TREATED_BY,nico,30851272
+neurological,ASSOCIATED_WITH,neurological involvement,30851717
+adverse events,ASSOCIATED_WITH,nutritional complications,30851879
+stat,ASSOCIATED_WITH,ischemia,30851940
+stat,TREATED_BY,ischemia,30851940
+adverse limb events,ASSOCIATED_WITH,adverse perioperative outcomes,30852042
+immunoglobulin,CAUSES,immune,30852075
+wound,ASSOCIATED_WITH,dehiscence,30852109
+marijuana,ASSOCIATED_WITH,cannabis,30852326
+insulin,ASSOCIATED_WITH,hypoglycemic agents,30852444
+fingolimod,TREATED_BY,alteplase,30852478
+m2,ASSOCIATED_WITH,functional independence,30852524
+bleeding,ASSOCIATED_WITH,varice,30852769
+late morbid,TREATED_BY,leukaemia,30852834
+cerebral,ASSOCIATED_WITH,ischemia,30852963
+malations,ASSOCIATED_WITH,seizure,30853154
+ischaemic attack,ASSOCIATED_WITH,ischaemic,30853188
+hypoxemia,ASSOCIATED_WITH,h,30853404
+vitamin k antagonist,ASSOCIATED_WITH,anticoagnts,30853427
+vitamin k antagonist,TREATED_BY,anticoagnts,30853427
+mast cells,ASSOCIATED_WITH,ketoti,30853494
+mast cells,TREATED_BY,ketoti,30853494
+mineralocortiid receptor antagonist,CAUSES,mineraloco,30854950
+differences,INCREASES_RISK_OF,shock wave,30855373
+gestational hypertension,ASSOCIATED_WITH,inflammation,30856108
+dementia,ASSOCIATED_WITH,neuropathological burden,30856115
+- aspiration,ASSOCIATED_WITH,dysphagia,30856123
+insulin,ASSOCIATED_WITH,hypertension,30857804
+insulin,TREATED_BY,hypertension,30857804
+stress hormones,ASSOCIATED_WITH,ischemia,30857850
+hyper,ASSOCIATED_WITH,antiplatelet,30858000
+hyper,TREATED_BY,antiplatelet,30858000
+oma,ASSOCIATED_WITH,ischa,30859191
+oma,CAUSES,ischa,30859191
+rec,ASSOCIATED_WITH,acid,30859250
+rec,TREATED_BY,acid,30859250
+inferior functional outcomes,TREATED_BY,ischaemi,30860055
+headache,ASSOCIATED_WITH,seizures,30860105
+medication,ASSOCIATED_WITH,hypertension,30860195
+niater,ASSOCIATED_WITH,ai,30860451
+impaired glucose,ASSOCIATED_WITH,hypertension,30862232
+lesions,ASSOCIATED_WITH,cysts,30862368
+lesions,CAUSES,cysts,30862368
+iodoamphetamine,ASSOCIATED_WITH,disturbed,30862395
+impaired,ASSOCIATED_WITH,2,30862424
+ox,ASSOCIATED_WITH,stress,30862472
+netarsudil,ASSOCIATED_WITH,timolol,30862500
+mass,ASSOCIATED_WITH,irritation,9326867
+mass,CAUSES,irritation,9326867
+urapidil,TREATED_BY,ketanser,9327314
+isoura,TREATED_BY,midazolam,9327316
+angiotensin - converting enzyme inhibitors,ASSOCIATED_WITH,calcium antagonists,9327716
+pressure,INCREASES_RISK_OF,hypertension,9328471
+hypertension,ASSOCIATED_WITH,barium,9328533
+hypertens,TREATED_BY,omega,9328799
+vascular,ASSOCIATED_WITH,vascular damage,9328800
+vascular,TREATED_BY,vascular damage,9328800
+hypertension,TREATED_BY,lazar,9328943
+therapy,ASSOCIATED_WITH,cyclpor,9328959
+olusion,ASSOCIATED_WITH,loss,9329023
+n,TREATED_BY,methyl,9329033
+octre,TREATED_BY,oct,9329359
+metastases,TREATED_BY,nod,9329472
+glucocorticoids,TREATED_BY,oplucocor,9329512
+cognitive impairment,INCREASES_RISK_OF,deterioration,9329681
+cognitive impairment,ASSOCIATED_WITH,deterioration,9329681
+plaques,INCREASES_RISK_OF,neurofibrillary tangles,9329686
+mig,CAUSES,white - matter abnormalities,9329692
+hypertensionnt,CAUSES,hypertension,9329742
+methotrexa,TREATED_BY,methotrexate,9330927
+candesartan,TREATED_BY,cilexetil,9331004
+candesanlexeti,TREATED_BY,ang,9331007
+candesartan,TREATED_BY,cilexetil,9331015
+cananlexetil,ASSOCIATED_WITH,hyper,9331017
+paclitax,TREATED_BY,chemotherapy,9331136
+premature,CAUSES,hyper,9331956
+vascular abnormalities,ASSOCIATED_WITH,structural,9332233
+ismia,CAUSES,nf,9332715
+hyper,ASSOCIATED_WITH,alterations,9333319
+capoten,TREATED_BY,prazosin,9333490
+vis,ASSOCIATED_WITH,fat,9333508
+hypercholesterolaemia,ASSOCIATED_WITH,hypertension,9333509
+melancholia,TREATED_BY,depression,9333562
+mianse,TREATED_BY,hypertension,9333722
+bleeding,TREATED_BY,com,9333730
+hyper,CAUSES,ta,9334111
+obesity,ASSOCIATED_WITH,diabetic histopathologies,9334720
+fast,TREATED_BY,insulin,9335414
+agingtomy - related,ASSOCIATED_WITH,skeletal changes,9335462
+hypertension,ASSOCIATED_WITH,adverse,9336024
+ramipril,TREATED_BY,arterial hypertension,9336065
+prostanoids,TREATED_BY,hyper,9336310
+mass,ASSOCIATED_WITH,stress,9336373
+hypertrophy,TREATED_BY,hypertens,9336375
+rigid,ASSOCIATED_WITH,hypertension,9336377
+- 1,CAUSES,agonist,9336380
+insulin,ASSOCIATED_WITH,vascular,9336383
+hypertensive,ASSOCIATED_WITH,enalapr,9336386
+endothelial dysfunction,ASSOCIATED_WITH,hypertension,9336396
+nitric oxide,TREATED_BY,19 - noraldosteroneuronal no synthase,9336399
+lovastat,ASSOCIATED_WITH,hypertension,9336402
+lovastat,TREATED_BY,hypertension,9336402
+injury,CAUSES,hypertension,9336403
+aneurm,ASSOCIATED_WITH,rupture,9336491
+perindopril,TREATED_BY,hypertensive,9336658
+heparin,TREATED_BY,streptokinase,9337184
+annexin v,ASSOCIATED_WITH,annex,9337209
+hypertension,ASSOCIATED_WITH,anti,9337217
+warrialbrillation,ASSOCIATED_WITH,war,9337445
+near - fainting responses,ASSOCIATED_WITH,fainting,9337634
+at,ASSOCIATED_WITH,noradrenal,9337638
+dicrotic notch,ASSOCIATED_WITH,notch,9338845
+perbation,ASSOCIATED_WITH,flex,9339155
+overweight,ASSOCIATED_WITH,hypertension,9339176
+vasopress,ASSOCIATED_WITH,ddavp,9339235
+nitric oxide,CAUSES,hoxia,9339294
+les,ASSOCIATED_WITH,an,9339339
+dementia,INCREASES_RISK_OF,gait disturbance,9339634
+dementia,ASSOCIATED_WITH,gait disturbance,9339634
+beta - blockers,TREATED_BY,beta,9339958
+of,ASSOCIATED_WITH,factors,9339959
+fenopam,CAUSES,hypertens,9339965
+hem,ASSOCIATED_WITH,rhe,9340042
+hypertens,INCREASES_RISK_OF,ace - inhibitor,9340173
+st - segment elevation,TREATED_BY,bundle - branch block,9340503
+relaxationmoral artery,ASSOCIATED_WITH,atherosclerosis,9340578
+relaxationmoral artery,CAUSES,atherosclerosis,9340578
+atherrosis,ASSOCIATED_WITH,at,9340607
+contraceptives,ASSOCIATED_WITH,contraceptive,9341057
+single,ASSOCIATED_WITH,a to g,9341162
+single,CAUSES,a to g,9341162
+pneumonia,TREATED_BY,manidi,9341290
